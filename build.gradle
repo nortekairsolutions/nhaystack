@@ -50,7 +50,7 @@ gradle.beforeProject { p ->
 subprojects { Project p ->
     p.pluginManager.withPlugin('com.tridium.niagara-module') {
         p.niagaraModule {
-            certAlias = "ph-code-cert"
+            certAlias = "nortek-air-niagara-cert"
         }
     }
 }

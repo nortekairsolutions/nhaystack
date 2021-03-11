@@ -13,7 +13,7 @@ niagaraModule {
     preferredSymbol = "nh"
     runtimeProfile = "wb"
     moduleName = "nhaystack"
-    certAlias = "ph-code-cert"
+    certAlias = "nortek-air-niagara-cert"
 }
 
 dependencies {
